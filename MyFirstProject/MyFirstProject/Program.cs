@@ -10,7 +10,8 @@ namespace MyFirstProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to C#.NET");
+            string whatIsYourName = "AZanae";
+            Console.WriteLine($"Welcome to C#.NET {whatIsYourName}");
             Console.ReadKey();
         }
     }
