@@ -36,9 +36,9 @@ namespace Variables
             Console.WriteLine($"Hello, {myFirstName} {myLastName}");
             Console.ReadLine();
 
-            
 
-         
+
+
 
         }
     }

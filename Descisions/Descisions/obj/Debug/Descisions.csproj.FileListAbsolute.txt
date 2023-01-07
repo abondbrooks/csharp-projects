@@ -1,0 +1,8 @@
+D:\learn-dotnet-projects\Descisions\Descisions\bin\Debug\Descisions.exe.config
+D:\learn-dotnet-projects\Descisions\Descisions\bin\Debug\Descisions.exe
+D:\learn-dotnet-projects\Descisions\Descisions\bin\Debug\Descisions.pdb
+D:\learn-dotnet-projects\Descisions\Descisions\obj\Debug\Descisions.csproj.AssemblyReference.cache
+D:\learn-dotnet-projects\Descisions\Descisions\obj\Debug\Descisions.csproj.SuggestedBindingRedirects.cache
+D:\learn-dotnet-projects\Descisions\Descisions\obj\Debug\Descisions.csproj.CoreCompileInputs.cache
+D:\learn-dotnet-projects\Descisions\Descisions\obj\Debug\Descisions.exe
+D:\learn-dotnet-projects\Descisions\Descisions\obj\Debug\Descisions.pdb
