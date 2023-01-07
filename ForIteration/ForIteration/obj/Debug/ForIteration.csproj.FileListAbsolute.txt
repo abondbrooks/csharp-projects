@@ -1,0 +1,8 @@
+D:\learn-dotnet-projects\ForIteration\ForIteration\bin\Debug\ForIteration.exe.config
+D:\learn-dotnet-projects\ForIteration\ForIteration\bin\Debug\ForIteration.exe
+D:\learn-dotnet-projects\ForIteration\ForIteration\bin\Debug\ForIteration.pdb
+D:\learn-dotnet-projects\ForIteration\ForIteration\obj\Debug\ForIteration.csproj.AssemblyReference.cache
+D:\learn-dotnet-projects\ForIteration\ForIteration\obj\Debug\ForIteration.csproj.SuggestedBindingRedirects.cache
+D:\learn-dotnet-projects\ForIteration\ForIteration\obj\Debug\ForIteration.csproj.CoreCompileInputs.cache
+D:\learn-dotnet-projects\ForIteration\ForIteration\obj\Debug\ForIteration.exe
+D:\learn-dotnet-projects\ForIteration\ForIteration\obj\Debug\ForIteration.pdb
