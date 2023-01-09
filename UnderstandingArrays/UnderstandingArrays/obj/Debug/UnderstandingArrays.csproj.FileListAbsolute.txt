@@ -1,0 +1,8 @@
+D:\learn-dotnet-projects\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe.config
+D:\learn-dotnet-projects\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe
+D:\learn-dotnet-projects\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.pdb
+D:\learn-dotnet-projects\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.csproj.AssemblyReference.cache
+D:\learn-dotnet-projects\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.csproj.SuggestedBindingRedirects.cache
+D:\learn-dotnet-projects\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.csproj.CoreCompileInputs.cache
+D:\learn-dotnet-projects\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.exe
+D:\learn-dotnet-projects\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.pdb
