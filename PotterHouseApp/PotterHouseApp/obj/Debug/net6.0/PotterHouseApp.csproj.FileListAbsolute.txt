@@ -1,0 +1,15 @@
+D:\learn-dotnet-projects\PotterHouseApp\PotterHouseApp\bin\Debug\net6.0\PotterHouseApp.exe
+D:\learn-dotnet-projects\PotterHouseApp\PotterHouseApp\bin\Debug\net6.0\PotterHouseApp.deps.json
+D:\learn-dotnet-projects\PotterHouseApp\PotterHouseApp\bin\Debug\net6.0\PotterHouseApp.runtimeconfig.json
+D:\learn-dotnet-projects\PotterHouseApp\PotterHouseApp\bin\Debug\net6.0\PotterHouseApp.dll
+D:\learn-dotnet-projects\PotterHouseApp\PotterHouseApp\bin\Debug\net6.0\PotterHouseApp.pdb
+D:\learn-dotnet-projects\PotterHouseApp\PotterHouseApp\obj\Debug\net6.0\PotterHouseApp.csproj.AssemblyReference.cache
+D:\learn-dotnet-projects\PotterHouseApp\PotterHouseApp\obj\Debug\net6.0\PotterHouseApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn-dotnet-projects\PotterHouseApp\PotterHouseApp\obj\Debug\net6.0\PotterHouseApp.AssemblyInfoInputs.cache
+D:\learn-dotnet-projects\PotterHouseApp\PotterHouseApp\obj\Debug\net6.0\PotterHouseApp.AssemblyInfo.cs
+D:\learn-dotnet-projects\PotterHouseApp\PotterHouseApp\obj\Debug\net6.0\PotterHouseApp.csproj.CoreCompileInputs.cache
+D:\learn-dotnet-projects\PotterHouseApp\PotterHouseApp\obj\Debug\net6.0\PotterHouseApp.dll
+D:\learn-dotnet-projects\PotterHouseApp\PotterHouseApp\obj\Debug\net6.0\refint\PotterHouseApp.dll
+D:\learn-dotnet-projects\PotterHouseApp\PotterHouseApp\obj\Debug\net6.0\PotterHouseApp.pdb
+D:\learn-dotnet-projects\PotterHouseApp\PotterHouseApp\obj\Debug\net6.0\PotterHouseApp.genruntimeconfig.cache
+D:\learn-dotnet-projects\PotterHouseApp\PotterHouseApp\obj\Debug\net6.0\ref\PotterHouseApp.dll
