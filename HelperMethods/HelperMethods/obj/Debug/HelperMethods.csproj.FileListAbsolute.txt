@@ -1,0 +1,8 @@
+D:\learn-dotnet-projects\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+D:\learn-dotnet-projects\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe
+D:\learn-dotnet-projects\HelperMethods\HelperMethods\bin\Debug\HelperMethods.pdb
+D:\learn-dotnet-projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csproj.AssemblyReference.cache
+D:\learn-dotnet-projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csproj.SuggestedBindingRedirects.cache
+D:\learn-dotnet-projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csproj.CoreCompileInputs.cache
+D:\learn-dotnet-projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+D:\learn-dotnet-projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
