@@ -21,6 +21,7 @@ static void IntroduceYourself(string message)
 }
 static void PickAColor(string myColor, string myName, string[] myArray)
 {
+   
     if (myColor == "1")
         Console.WriteLine($"{myArray[2]} is your house {myName}.");
     else if (myColor == "2")
