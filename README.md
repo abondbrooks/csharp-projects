@@ -1,2 +1,2 @@
-# learn-dotnet-projects
-learning c# .net repo
+# dotnet-projects
+c# .net repo
