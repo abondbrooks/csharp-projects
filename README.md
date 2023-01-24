@@ -1,2 +1,2 @@
-# dotnet-projects
-c# .net repo
+# csharp-projects
+small repo of console applications in c#
