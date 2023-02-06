@@ -5,17 +5,11 @@ D:\csharp-projects\DatingApp\API\bin\Debug\net7.0\API.deps.json
 D:\csharp-projects\DatingApp\API\bin\Debug\net7.0\API.runtimeconfig.json
 D:\csharp-projects\DatingApp\API\bin\Debug\net7.0\API.dll
 D:\csharp-projects\DatingApp\API\bin\Debug\net7.0\API.pdb
-D:\csharp-projects\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-D:\csharp-projects\DatingApp\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
-D:\csharp-projects\DatingApp\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\csharp-projects\DatingApp\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\csharp-projects\DatingApp\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\csharp-projects\DatingApp\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
 D:\csharp-projects\DatingApp\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
 D:\csharp-projects\DatingApp\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
 D:\csharp-projects\DatingApp\API\obj\Debug\net7.0\API.AssemblyInfo.cs
 D:\csharp-projects\DatingApp\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
-D:\csharp-projects\DatingApp\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
 D:\csharp-projects\DatingApp\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
 D:\csharp-projects\DatingApp\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
 D:\csharp-projects\DatingApp\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
@@ -25,7 +19,6 @@ D:\csharp-projects\DatingApp\API\obj\Debug\net7.0\staticwebassets.pack.json
 D:\csharp-projects\DatingApp\API\obj\Debug\net7.0\staticwebassets.build.json
 D:\csharp-projects\DatingApp\API\obj\Debug\net7.0\staticwebassets.development.json
 D:\csharp-projects\DatingApp\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
-D:\csharp-projects\DatingApp\API\obj\Debug\net7.0\API.csproj.CopyComplete
 D:\csharp-projects\DatingApp\API\obj\Debug\net7.0\API.dll
 D:\csharp-projects\DatingApp\API\obj\Debug\net7.0\refint\API.dll
 D:\csharp-projects\DatingApp\API\obj\Debug\net7.0\API.pdb
