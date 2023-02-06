@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GYB4VMjUpJb24Op8jQIUmlfzanPof00V3KeOU8FfBCamNA0TXYzcFrJnnhKBVs9aOy49YV6RfuBaRAXSDXZOZg==",
+  "dgSpecHash": "xNbNltIr29pXQAlMKWO6ddKD1NvSKnpHyl2517nwz53Nf1BWdExXTgS+WfZj+eKNP/5SeKee3ompPS4BojK5DQ==",
   "success": true,
-  "projectFilePath": "D:\\csharp-projects\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "D:\\csharp-projects\\AngularWebApp\\AngularWebApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Nae\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
+    "C:\\Users\\Nae\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "C:\\Users\\Nae\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Nae\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\Nae\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
